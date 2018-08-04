@@ -5,7 +5,7 @@ Tron-Europe Desktop Wallet for Windows
 </h1>
 
 The project is an open source community project to create a wallet that is agile and easy to use.
-In addition to the basic Wallet functions, it offers many extended transaction and report functions for teh daily use.
+In addition to the basic Wallet functions, it offers many extended transaction and report features for the daily use.
 The project starts slowly and grows with the community. Be a part of Tron-Europe and support the project.
 
 ## Feature list
