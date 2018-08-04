@@ -16,7 +16,7 @@ The project starts slowly and grows with the community. Be a part of Tron-Europe
 - Multithreading
 
 ### Program and User Features
-- AES 265/512 File encryption
+- AES 256/512 File encryption
 - Automatic lock function
 - Basic Account functions
 - Multi-Wallet support (manage multiple wallets via one application)
